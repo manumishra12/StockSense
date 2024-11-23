@@ -120,13 +120,24 @@ The application provides visual insights into stock price predictions along with
   
 - **Crossover**: Moving average crossovers signal potential buy or sell points when a short-term moving average crosses above or below a long-term moving average.
 
+
+## Output 
+
+### Serial Backtesting 
+All stock will testin gone by one on the single processor threads
+
 ![Results](https://github.com/manumishra12/StockSense/blob/main/Assets/R1.png)
 
 ---
 
+### Parallel Backtesting 
+Stocks will be divided into parts and send to different threads to backtest strategies on different stocks on same time.
+
 ![Results](https://github.com/manumishra12/StockSense/blob/main/Assets/R2.png)
 
 ---
+
+### Serial vs Parallel time consumption graph 
 
 ![Results](https://github.com/manumishra12/StockSense/blob/main/Assets/R3.png)
 
