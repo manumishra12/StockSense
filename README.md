@@ -214,7 +214,7 @@ To monitor the performance of your stock price prediction and backtesting script
 
 ---
 
-🌟 Acknowledgments
+## 🌟 Acknowledgments
 
 - yfinance: For fetching historical stock data.
 - TA-Lib: For technical indicators used in the application.
