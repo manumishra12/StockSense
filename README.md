@@ -3,6 +3,7 @@
 
 This application uses historical stock price data along with technical indicators to predict future stock price movements. It integrates both **serial and parallel backtesting** using **multiprocessing** and **OpenMP** to optimize trading strategies, enhance decision-making, and improve workflow efficiency.
 
+![Prediction in Action](https://github.com/yourusername/yourrepositoryname/blob/main/Images/Prediction.gif)
 
 ## 📖 Introduction
 
