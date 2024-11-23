@@ -3,7 +3,8 @@
 
 This application uses historical stock price data along with technical indicators to predict future stock price movements. It integrates both **serial and parallel backtesting** using **multiprocessing** and **OpenMP** to optimize trading strategies, enhance decision-making, and improve workflow efficiency.
 
-![Prediction in Action](https://github.com/yourusername/yourrepositoryname/blob/main/Images/Prediction.gif)
+
+![Prediction in Action](https://github.com/manumishra12/StockSense/blob/main/Assets/demo.gif)
 
 ## 📖 Introduction
 
@@ -119,6 +120,21 @@ The application provides visual insights into stock price predictions along with
   
 - **Crossover**: Moving average crossovers signal potential buy or sell points when a short-term moving average crosses above or below a long-term moving average.
 
+![Results](https://github.com/manumishra12/StockSense/blob/main/Assets/R1.png)
+
+---
+
+![Results](https://github.com/manumishra12/StockSense/blob/main/Assets/R2.png)
+
+---
+
+![Results](https://github.com/manumishra12/StockSense/blob/main/Assets/R3.png)
+
+---
+
+![Results](https://github.com/manumishra12/StockSense/blob/main/Assets/R4.png)
+
+
 ### Example Output
 
 - **Stock Price vs Predicted Prices**: A plot comparing the actual stock prices with predicted prices, allowing for a visual comparison of forecast accuracy.
@@ -192,6 +208,14 @@ plt.show()
 ## 🔧 AMD uProf Profiler
 
 To monitor the performance of your stock price prediction and backtesting script, you can use the **AMD uProf Profiler**, which provides detailed insights into your script's execution, helping you optimize performance.
+
+
+![Results](https://github.com/manumishra12/StockSense/blob/main/Assets/R5.png)
+
+![Results](https://github.com/manumishra12/StockSense/blob/main/Assets/R6.png)
+
+![Results](https://github.com/manumishra12/StockSense/blob/main/Assets/R7.png)
+
 
 ---
 
