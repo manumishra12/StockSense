@@ -1,4 +1,4 @@
-# StockSense
+# StockSense 💹
 ## Stock Price Prediction with Indicators and Backtesting
 
 This application uses historical stock price data along with technical indicators to predict future stock price movements. It integrates both **serial and parallel backtesting** using **multiprocessing** and **OpenMP** to optimize trading strategies, enhance decision-making, and improve workflow efficiency.
