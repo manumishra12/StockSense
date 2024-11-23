@@ -190,7 +190,7 @@ plt.show()
 
 ```
 
-### 🔧 AMD uProf Profiler
+## 🔧 AMD uProf Profiler
 
 To monitor the performance of your stock price prediction and backtesting script, you can use the **AMD uProf Profiler**, which provides detailed insights into your script's execution, helping you optimize performance.
 
@@ -212,8 +212,9 @@ To monitor the performance of your stock price prediction and backtesting script
 3. **Analyze the Results**:
    After running the script, use AMD uProf to analyze the performance metrics, identify bottlenecks, and optimize the workflow. 
 
+---
 
-###🌟 Acknowledgments
+🌟 Acknowledgments
 
 - yfinance: For fetching historical stock data.
 - TA-Lib: For technical indicators used in the application.
